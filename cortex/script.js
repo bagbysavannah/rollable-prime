@@ -87,7 +87,7 @@ function addDieToPool(sides, num, mod) {
   let output = "";
   for (k = 0; k < dicePool.length; k++) {
     output += '<div class="dice6">';
-    output += '<img src="https://assets.codepen.io/2643010/d';
+    output += '<img src="images/d';
     output += dicePool[k].dieType;
     output += '.png" class="poolDieImg" />';
     output += '<span class="poolDieTxt">';
