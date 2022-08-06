@@ -139,7 +139,7 @@ c
 {
 	display: inline;
 	font-family: 'cortex-icons';
-	font-size: 140%;
+	font-size: 180%;
 	font-style: normal;
 	position: relative;
 	color: #C50852;
@@ -160,7 +160,7 @@ pp
 	font-style: normal;
 	font-weight: 700;
 	text-align: center;
-	font-size: 75%;
+	font-size: 100%;
 	line-height: 1.6em;
 }
 pp:before
@@ -241,7 +241,12 @@ ref
 	text-align: center;
 	text-transform: uppercase;
 	font-style: normal;
-	font-size: 8.6pt;
+	font-size: 10pt;
+}
+/* Dice */
+#dice c
+{
+	font-size: 18pt;
 }
 
 /* Distinctions */
@@ -259,7 +264,7 @@ ref
 }	
 #distinctions h2 c
 {
-	font-size: 11pt;
+	font-size: 18pt;
 }	
 #distinctions ul
 {
@@ -277,7 +282,7 @@ ref
   margin-top: -1.5pt;
   font-style: normal;
   margin-right: 0;
-  font-size: 7.75pt;
+  font-size: 10pt;
 }
 #distinctions li + li
 {
